@@ -65,3 +65,6 @@ The official source code of the Telegram is available at links provided
 * https://github.com/telegramdesktop/tdesktop
 
 "GitHub Continuous Integration" is licensed under the MIT License. 
+
+## Support Us
+Patreon: https://www.patreon.com/AppImageWorkshop
