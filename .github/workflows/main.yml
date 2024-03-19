@@ -1,11 +1,7 @@
 
 name: Release
-on:
-  schedule:
-    - cron: "45 */12 * * *"
-  push:
-    branches:
-      - "main"
+on: workflow_dispatch
+permissions: write-all
 
 
 jobs:
